@@ -12,7 +12,7 @@ import math
 import getopt
 import string
 
-print "DDOS adalah tool untuk mengirim packet ke mantan terindah"
+print "DDOS-ATTACK adalah tool untuk mengirim packet ke musuhmu"
 print "Mr.scriptkiddie004"
 print "Indonesia Black Hat Hacker"
 print "cara pakai" 
