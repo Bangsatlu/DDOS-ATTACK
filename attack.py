@@ -20,7 +20,7 @@ print "cara pakai"
 
 
 def usage():
-    print "python2 DDOS.py <ip> <port> <packet>"
+    print "python2 attack.py <ip> <port> <packet>"
 
 
 def flood (victim, vport, duration):
