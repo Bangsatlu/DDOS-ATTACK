@@ -8,12 +8,12 @@ import time,socket,sys,os,re,random,math,getopt,string
 #usage#
 def usage():
     print"\033[1;91m"
-    print"####################################"
-    print"#              DDOS-ATTACK          "
-    print"#           Mr.scriptkiddie004      "
-    print"#               ----------          "
-    print"#        Indonesia Black Hat Hacker "
-    print"####################################"
+    print"########################################"
+    print"#              DDOS-ATTACK             #"
+    print"#           Mr.scriptkiddie004         #"
+    print"#               ----------             #"
+    print"#        Indonesia Black Hat Hacker    #"
+    print"########################################"
     print"DDOS-ATTACK adalah tool untuk mengirim packet ke server korban"
     print"Contoh"
     print "python2 attack.py <ip> <port> <packet>"
