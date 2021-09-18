@@ -1,8 +1,8 @@
 ##############################################
 #              DDOS-ATTACK                   #
-#           Mr.scriptkiddie004               #
+#               Mr.Tiger                     #
 #               ----------                   #
-#        Indonesia Black Hat Hacker          #
+#               Army Beast                   #
 ##############################################
 
 #install
